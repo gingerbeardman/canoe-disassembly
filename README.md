@@ -8,4 +8,4 @@ Disassembly of Canoe emulator from SNES Classic Mini
 
 ---
 
-Produced using _Hopper Disassembler v4_ and _IDA Pro 7.0_ on macOS
+Produced using _IDA Pro 7.0_ on macOS
